@@ -155,6 +155,7 @@ The transport tools simply serve as transport pipelines for data. This includes 
 - [Apollo](http://activemq.apache.org/apollo/) - Faster, more reliable, easier to maintain messaging broker built from the foundations of the original ActiveMQ.
 - [Ascoltatori](https://github.com/mcollina/ascoltatori) - Pub/sub library for Node.
 - [Beanstalk](http://kr.github.io/beanstalkd/) - Simple, fast work queue.
+- [DataPrepper](https://github.com/opensearch-project/data-prepper) - Data collector for observability data (trace, logs, metrics).
 - [Disque](https://github.com/antirez/disque) - Distributed message broker.
 - [Eventuate](http://eventuate.io/) - A platform for developing asynchronous microservices solving the distributed data management problems.
 - [Malamute](https://github.com/zeromq/malamute) - ZeroMQ enterprise messaging broker.
@@ -229,6 +230,7 @@ In addition, collectors can have other responsibilities. For example, some expos
 - [Observatorium](https://github.com/observatorium/observatorium) - This system will allow you to ingest, store and use common observability signals like metrics, logging and tracing.
 - [Opstrace](https://opstrace.com/) - The Opstrace Distribution is a secure, horizontally-scalable, open source observability platform that you can install in your cloud account.
 - [Apache HBase](https://hbase.apache.org/) - Apache HBase is the Hadoop database, a distributed, scalable, big data store.
+- [Apache DevLake](https://devlake.apache.org) - Ingests, analyzes, and visualizes the fragmented data from DevOps tools.
 
 ### Tracing
 
